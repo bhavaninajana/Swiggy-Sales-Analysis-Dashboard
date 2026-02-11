@@ -8,4 +8,5 @@ Advanced Excel
 
 ## Key Insights 
 -Discovered seasonal sales peaks in January, May, and August.
+
 -Bengaluru contributing the highest overall revenue.
